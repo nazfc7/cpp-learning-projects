@@ -1,1 +1,2 @@
-Add arrays folder
+C++ examples focusing on array operations.
+
