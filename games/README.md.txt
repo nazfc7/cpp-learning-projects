@@ -1,1 +1,2 @@
-Add games folder
+Simple console-based game logic implementations in C++.
+
